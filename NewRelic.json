@@ -1,4 +1,5 @@
 {
   "6.1.1": "https://download.newrelic.com/ios_agent/NewRelic_iOS_Agent_6.1.1.zip",
-  "6.6.0": "https://github.com/xcodefarfetchina/frameworks-ios/releases/download/NewRelic/NewRelicAgent.framework.zip"
+  "6.6.0": "https://github.com/xcodefarfetchina/frameworks-ios/releases/download/NewRelic/NewRelicAgent.framework.zip",
+  "6.9.0": "https://download.newrelic.com/ios_agent/NewRelic_iOS_Agent_6.9.0.zip"
 }
